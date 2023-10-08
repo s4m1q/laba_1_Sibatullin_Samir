@@ -1,3 +1,6 @@
 321
 654
 no world
+no world
+no exit
+555
